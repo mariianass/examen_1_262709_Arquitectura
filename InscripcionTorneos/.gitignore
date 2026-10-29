@@ -1,4 +1,6 @@
+out/
 target/
-nbproject/private/
 .idea/
+src/.idea/
+*.iml
 *.class
